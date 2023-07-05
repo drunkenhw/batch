@@ -10,6 +10,7 @@ class BatchApplicationTests {
     void contextLoads() {
         throw new IllegalArgumentException();
 
+
     }
 
 }
