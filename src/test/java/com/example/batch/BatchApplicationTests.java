@@ -8,7 +8,6 @@ class BatchApplicationTests {
 
     @Test
     void contextLoads() {
-        throw new IllegalArgumentException();
     }
 
 }
